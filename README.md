@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithin Kumar Makani
 
-🎓 B.Tech CSE (AI & CSIT) Student at VEMU Institute of Technology  
+🎓 B.Tech CSE Student at VEMU Institute of Technology  
 📍 Ranipeta, Venkatagiri, Tirupati District, Andhra Pradesh  
 📫 Email: [nithinkumarmakani@gmail.com](mailto:nithinkumarmakani@gmail.com)  
 🔗 LinkedIn: [https://lnk.ink/nithinkumar](https://lnk.ink/nithinkumar)
@@ -18,7 +18,6 @@ I'm an enthusiastic and dedicated individual with a strong foundation in Python 
 ### 👨‍💻 Languages:
 - Python
 - HTML, CSS, JavaScript
-- Java, R
 
 ### 🧰 Tools & Technologies:
 - Git & GitHub
