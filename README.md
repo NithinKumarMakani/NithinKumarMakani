@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Nithin Kumar Makani
 
-<!--
-**NithinKumarMakani/NithinKumarMakani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & CSIT) Student at VEMU Institute of Technology  
+📍 Ranipeta, Venkatagiri, Tirupati District, Andhra Pradesh  
+📫 Email: [nithinkumarmakani@gmail.com](mailto:nithinkumarmakani@gmail.com)  
+🔗 LinkedIn: [https://lnk.ink/nithinkumar](https://lnk.ink/nithinkumar)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm an enthusiastic and dedicated individual with a strong foundation in Python programming, eager to explore emerging technologies and apply my skills in real-world projects. I'm passionate about coding, continuous learning, and building things that make life easier.
+
+---
+
+## 💻 Skills & Technologies
+
+### 👨‍💻 Languages:
+- Python
+- HTML, CSS, JavaScript
+- Java, R
+
+### 🧰 Tools & Technologies:
+- Git & GitHub
+- Prompt Engineering
+- MySQL
+
+### 💻 Platforms:
+- Visual Studio Code
+- Google Colab
+- Jupyter Notebook
+
+---
+
+## 📈 Current Focus
+
+- Strengthening Python Full Stack skills  
+- Learning advanced JavaScript and MySQL integration  
+- Exploring Open Source and Mini Projects  
+
+---
+
+> “Every expert was once a beginner — keep learning and building!” 🚀
