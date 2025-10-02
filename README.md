@@ -18,6 +18,7 @@ I'm an enthusiastic and dedicated individual with a strong foundation in Python 
 ### 👨‍💻 Languages:
 - Python
 - HTML, CSS, JavaScript
+- Pandas, Matplotlib, Tableau
 
 ### 🧰 Tools & Technologies:
 - Git & GitHub
@@ -32,9 +33,9 @@ I'm an enthusiastic and dedicated individual with a strong foundation in Python 
 ---
 
 ## 📈 Current Focus
-
 - Strengthening Python Full Stack skills  
-- Learning advanced JavaScript and MySQL integration  
+- Learning advanced JavaScript and MySQL integration
+- Intrested in Building Dashboards By Analyzing the data and cleaning the raw data using pandas
 - Exploring Open Source and Mini Projects  
 
 ---
